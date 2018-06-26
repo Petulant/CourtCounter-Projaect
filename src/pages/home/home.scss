@@ -1,3 +1,38 @@
-page-home {
+.left, .right{
+    width: 50%;
+    padding: 0 5%;
+    text-align: center;
+    float: left;
+   
+  
+    
+}
+.left{
+    border-left: 1px solid darkgray;
+    
+}
+
+
+button{
+    
+    top:30%;
+    padding: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    position: fixed;       
+}
+.button{
+    color: black;
+    
+    
+}
+h6{
+    color: darkgray;
+}
+button[id="num"]{
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+ 
 
 }
